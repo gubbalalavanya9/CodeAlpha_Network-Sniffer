@@ -1,0 +1,5 @@
+NetSentinel Security Report
+---------------------------
+Total Packets Analyzed: 100
+
+No suspicious activity detected.
